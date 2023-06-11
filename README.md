@@ -1,4 +1,4 @@
-!(https://c4.wallpaperflare.com/wallpaper/888/401/300/code-digital-art-wallpaper-preview.jpg)
+
 
 #Comprehensive C++ Learning Repository
 
