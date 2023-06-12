@@ -1,4 +1,4 @@
-![c++](https://github.com/Shreyansh-saagar/Comprehensive_CPP_Learning/assets/92909979/e81d9c7c-6eed-4006-979e-c5c4f77f4f28)
+![code cpp](https://github.com/Shreyansh-saagar/Comprehensive_CPP_Learning/assets/92909979/d1e920b6-3929-4770-9baf-bb4c8420b737)
 
 
 # Comprehensive C++ Learning Repository
