@@ -9,15 +9,6 @@ int fact(int n){
         return fact;
 }
 
-bool isPrime(int n){
-
-    for(int i = 2; i < n ; i++ ){
-        if(n % i == 0){
-            return false;
-        }
-    }
-    return true;
-}
 
 int main(){
     int n , r;
@@ -43,5 +34,4 @@ int main(){
     int fact_nr =  fact(n-r);
 
     cout<< fact_n/(fact_r * fact_nr)<<endl;
-    cout<<isPrime(31);
 }
